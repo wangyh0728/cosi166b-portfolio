@@ -1,0 +1,33 @@
+The first ten elements of the popularity list are: 
+50
+258
+100
+181
+294
+286
+288
+1
+300
+121
+The last ten elements of the popularity list are: 
+1626
+1645
+1659
+1682
+1674
+1640
+1637
+1348
+1630
+1641
+The most similar users of user_1 are: 
+276
+303
+429
+92
+13
+435
+682
+222
+59
+416
